@@ -53,7 +53,7 @@ jobs:
         with:
           token: ${{ secrets.NS_TOKEN }}
           app_file: k9mail-debug.apk
-          group_id: "602abed9-4c66-453d-8431-da0195b682de"
+          group_id: "40005205-c6c2-4e25-bb89-26c8dd05bd9b"
           
           
 
