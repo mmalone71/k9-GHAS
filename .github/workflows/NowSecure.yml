@@ -49,7 +49,7 @@ jobs:
           
       - name: NowSecure
         uses: nowsecure/nowsecure-action@v1
-        timeout-minutes: 60
+        timeout-minutes: 100
         with:
           token: ${{ secrets.NS_TOKEN }}
           app_file: k9mail-debug.apk
